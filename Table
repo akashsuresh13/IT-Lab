@@ -24,10 +24,10 @@
 <td> 1234 </td>
 </tr>
 <tr>
-<td colspan=3 align="center"> ROW 3 CELL 1 </td>
+<td colspan=3 align="left"> ROW 3 CELL 1 </td>
 </tr> 
 <tr>
-<td> IT </td>
+<td> IT Lab </td>
 <td rowspan=2> OOPS JAVA </td>
 <td> OOAD </td>
 </tr>
@@ -37,5 +37,4 @@
 </tr>
 </body>
 </table>
-<a href="mailto:akash13suresh@gmail.com"> Mail </a>
 </html>
